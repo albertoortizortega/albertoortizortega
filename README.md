@@ -15,7 +15,7 @@
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-0A66C2?style=for-the-badge&logo=githubactions&logoColor=white)
-![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-FF6F00?style=for-the-badge&logo=icloud&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud%20Computing-FF6F00?style=for-the-badge&logo=icloud&logoColor=white)
 
 ---
 
