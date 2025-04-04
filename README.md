@@ -32,7 +32,8 @@
 
 ## 📊 GitHub Stats  
 ![Alberto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=albertoortizortega&show_icons=true&theme=tokyonight)
-
+### 🔥 Most Used Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albertoortizortega&layout=compact&theme=tokyonight)
 
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alberto-ortiz-ortega)
