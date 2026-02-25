@@ -32,12 +32,6 @@
 
 ---
 
-
-## 📊 GitHub Stats  
-![Alberto's GitHub Stats]([https://github-readme-stats.vercel.app/api?username=albertoortizortega&show_icons=true&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=albertoortizortega&show_icons=true&theme=tokyonight&count_private=true))
-### 🔥 Most Used Languages  
-![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=albertoortizortega&layout=compact&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=albertoortizortega&layout=compact&theme=tokyonight&hide_progress=false))
-
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alberto-ortiz-ortega)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/albertoortizortega)
